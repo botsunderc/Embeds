@@ -12,4 +12,4 @@
 - Discord.py
 - Asynchronous I/O
 
-<img src="import.jpg">
+<img src="/Images/import.jpg">
