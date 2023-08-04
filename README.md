@@ -21,5 +21,16 @@
 
 #### No. 2 - 
 ##### Include profile name, link and image (Author)
+<img src="/Images/embed3.jpg">
+<img src="/Images/command2.jpg">
 
-<img src="/Images/embed2.gif">
+#### No. 3 - 
+##### Include Fields and Values
+
+##### inline=True 
+<img src="/Images/embed4.jpg">
+<img src="/Images/command3.jpg">
+
+#### inline=False
+<img src="/Images/embed5.jpg">
+<img src="/Images/command4.jpg">
