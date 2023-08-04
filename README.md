@@ -12,7 +12,4 @@
 - Discord.py
 - Asynchronous I/O
 
-import discord
-from discord.ext import commands
-import asyncio
-
+<img src="import.jpg">
