@@ -18,3 +18,8 @@
 ##### Sending a simple embed with a title and description
 <img src="/Images/embed11.jpg">
 <img src="/Images/command1.jpg">
+
+#### No. 2 - 
+##### Include profile name, link and image (Author)
+
+<img src="/Images/embed2.gif">
