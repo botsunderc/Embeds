@@ -27,10 +27,10 @@
 #### No. 3 - 
 ##### Include Fields and Values
 
-##### inline=True 
+###### inline=True 
 <img src="/Images/embed4.jpg">
 <img src="/Images/command3.jpg">
 
-#### inline=False
+###### inline=False
 <img src="/Images/embed5.jpg">
 <img src="/Images/command4.jpg">
