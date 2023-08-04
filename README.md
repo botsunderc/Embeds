@@ -1,2 +1,2 @@
-# Embeds
-Embeds with Discord.py
+# Embeds With Discord.py
+
